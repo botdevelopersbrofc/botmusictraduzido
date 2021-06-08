@@ -71,7 +71,7 @@ bot.variables({
 })
 
     bot.command({
-	name: '<@!820441070412365825>',
+	name: '<@!820441070412365825>',//id do seu bot!!!
 	code: `$title[meu nome e $username[$clientID]]
 $description[meu prefixo e \`$getServerVar[prefix]\`
 o meu criador e o <@!$botOwnerID>]
