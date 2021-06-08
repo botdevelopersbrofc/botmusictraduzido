@@ -1,23 +1,13 @@
-module.exports = ({ 
-name: "help",
-aliases: ['ajuda'],
-code: `
-$title[precisa de ajuda?]
- $addField[adm;
- $getservervar[prefix]voladm (numero ate 500)
- $getservervar[prefix]setprefixo (argumento)
- ;yes]
- $addField[livre;
- $getservervar[prefix]play (nome da musica ou link)
- $getservervar[prefix]bass (numero ate 70)
- $getservervar[prefix]info
- $getservervar[prefix]queue
- $getservervar[prefix]skip
- $getservervar[prefix]stop
- $getservervar[prefix]volume (numero ate 150)
- ;yes]
- $image[https://i.imgur.com/4M7IWwP.gif]
- $footer[musica 24 horas]
- $color[RANDOM]
-`
-})
+# APPMAKERPARANA
+DIREEITOS RESERVADOS
+# BOTDEVELOPERSBR
+DIREEITOS RESERVADOS
+# DBD.JS criado por [vitor](https://discord.gg/2TWzx4hd)
+
+> direitos reservados a [appmakerparaná](http://brasilmodenycity.ga) quando copiar não apagar os creditos. 
+
+## oque voce precisa 
+
+1. Discord Bot Token acesse [discord developer portal](https://discord.com/developers/applications) e copie ele
+2. Node.js v12.0.0 + ja intalado
+
